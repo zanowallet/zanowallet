@@ -1,16 +1,19 @@
-## Hi there 👋
+# Zano Wallet
 
-<!--
-**zanowallet/zanowallet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent third-party desktop wallet for the Zano privacy blockchain. Open source, non-custodial, no KYC. Windows, macOS, Linux.
 
-Here are some ideas to get you started:
+- [Homepage](https://zanowallet.io/)
+- [Download](https://zanowallet.io/download) (Windows | macOS | Linux)
+- [Security model](https://zanowallet.io/security)
+- [No-KYC wallet](https://zanowallet.io/no-kyc-wallet)
+- [What is Zano](https://zanowallet.io/what-is-zano)
+- [Hidden-amount staking](https://zanowallet.io/features/staking)
+- [Atomic swaps](https://zanowallet.io/features/atomic-swap)
+- [Confidential Assets](https://zanowallet.io/features/confidential-assets)
+- [GPU mining](https://zanowallet.io/mining)
+- [Buy ZANO](https://zanowallet.io/buy-zano)
+- [Guides](https://zanowallet.io/guides)
+- [FAQ](https://zanowallet.io/faq)
+- [About](https://zanowallet.io/about)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Published by Zano Wallet LLC. MIT-licensed.
